@@ -1,25 +1,24 @@
-const country = 'Pakistan';
+const Country = 'Bangladesh';
 
-const division = 'Azad Kashmir';
+const district = 'Chittagong';
 
-const district = 'Neelam Valley';
+const Capital = 'Dhaka';
 
-const Police_Station = new String('Jehlum Vally');
+const thana = new String("Panchlaish");
+console.log(thana);
 
-// console.log(typeof country);
+console.log(typeof Capital);
 
-// console.log(Police_Station);
+const numbers = [100,200,300];
 
-const numbers = [54,98,78,21,65];
+console.log(numbers.length);
+numbers[1]=12;
+
 console.log(numbers);
-numbers[1] = 11;
-console.log(numbers);
-// const capital = 'DhaKa';
 
-// console.log(capital.length);
+const city = 'Dhaka';
 
-// console.log(capital[4]);
-
+console.log(city[0]);
 
 
 
