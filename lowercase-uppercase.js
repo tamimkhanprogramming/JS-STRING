@@ -21,7 +21,7 @@ else{
 const drink = ' Water ';
 
 const liquid = ' Water ';
-
+// Trim Means Align The Item Both Side Same Way
 if(drink.trim()===liquid.trim()){
      console.log("Pani Pora Dao");
 }
