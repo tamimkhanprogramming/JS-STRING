@@ -14,7 +14,7 @@ const sentence = "I am a Good Boy";
 
 console.log(sentence.split('a'));
 
-const friendsStr = 'Sun Vally,Cosmo Village,Shotru,Hingshuk';
+const friendsStr = 'Cosmo Village,Shotru,Hingshuk';
 
 const friend = friendsStr.split(',');
 console.log(friend);
