@@ -20,11 +20,11 @@ console.log(Full_Name);
 
 // include
 
-console.log(last_Name.includes('Hentai'));
+console.log(last_Name.includes('Games'));
 
-console.log(last_Name.includes('uTorrent'));
+console.log(last_Name.includes('Games'));
 
-console.log(last_Name.includes('Genesis Order[Fitgirl Repack Website]'));
+console.log(last_Name.includes('Games'));
 
 console.log(last_Name.includes('Games'));
 
