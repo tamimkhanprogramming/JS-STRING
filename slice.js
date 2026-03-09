@@ -27,7 +27,9 @@ console.log(conquer);
 
 const sentence = 'I am Learning Web Development';
 
-const new_sentence = sentence.split(' ');
+// const new_sentence = sentence.split(' ');
+
+const new_sentence = sentence.split('a');
 
 console.log(new_sentence);
 
