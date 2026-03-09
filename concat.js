@@ -22,3 +22,7 @@ console.log(Full_Name);
 
 console.log(last_Name.includes('Hentai'));
 
+console.log(last_Name.includes('uTorrent'));
+
+console.log(last_Name.includes('Genesis Order[Fitgirl Repack Website]'));
+
