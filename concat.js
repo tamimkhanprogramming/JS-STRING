@@ -18,3 +18,7 @@ const Full_Name = first_Name.concat(' ').concat(last_Name);
 
 console.log(Full_Name);
 
+// include
+
+console.log(last_Name.includes('Hentai'));
+
