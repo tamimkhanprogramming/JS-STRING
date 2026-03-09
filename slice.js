@@ -1,26 +1,16 @@
-// const address = 'Andorkilla';
+const address = "Bangladesh";
 
-// const part = address.slice(2,5);
+const realAddress = address.slice(2,5);
 
-// console.log(part);
+console.log(realAddress);
 
-// const address = 'Andorkilla';
+const friendStr = ['Muntasir','Mahmud','Shamim','Shoab','Harris','Zahjah'];
 
-// const part = address.slice(2,5);
+console.log(friendStr.join('-'));
 
-// console.log(part);
+const sentence = "I am Learning Web Development";
 
-const sentence = "I am a Good Boy";
+const new_sentence = sentence.split(' ');
 
-console.log(sentence.split('a'));
-
-const friendsStr = 'Cosmo Village,Shotru,Hingshuk';
-
-const friend = friendsStr.split(',');
-console.log(friend);
-
-const realFriend = ['Muntasir','Samin','Mahmud','Shamim','Mansur','Harris Harras','Zahjah'];
-
-console.log(realFriend.join());
-console.log(realFriend.join('|'));
+console.log(new_sentence);
 
