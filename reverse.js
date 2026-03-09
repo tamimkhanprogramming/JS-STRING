@@ -1,27 +1,33 @@
-// const sentence = 'I am Learning Web Development From Programming Hero';
+// // const sentence = 'I am Learning Web Development From Programming Hero';
 
-// //  let reverse = ' ';
-// // for(const letter of sentence){
+// // //  let reverse = ' ';
+// // // for(const letter of sentence){
 
-// //     reverse = letter+reverse;
+// // //     reverse = letter+reverse;
     
-// // }
+// // // }
+// // // console.log(reverse);
+
+// // //Shortcut Solution
+// // const reverse = sentence.split('').reverse('').join('');
+
 // // console.log(reverse);
 
-// //Shortcut Solution
-// const reverse = sentence.split('').reverse('').join('');
+// const sentence = "I am Learning Web Development at Programming Hero Platform";
 
+// let reverse = '';
+
+// for(const letter of sentence){
+
+//     reverse = letter+reverse;
+// }
 // console.log(reverse);
 
-const sentence = "I am Learning Web Development at Programming Hero Platform";
+// // const letter = "I am Learning Web Development Course From Programming Hero Platform";
 
-let reverse = '';
+// // reverse = letter.split('').reverse().join('');
 
-for(const letter of sentence){
-
-    reverse = letter+reverse;
-}
-console.log(reverse);
+// // console.log(reverse);
 
 // const letter = "I am Learning Web Development Course From Programming Hero Platform";
 
@@ -29,9 +35,17 @@ console.log(reverse);
 
 // console.log(reverse);
 
-const letter = "I am Learning Web Development Course From Programming Hero Platform";
+// const sentence = "I am Learning Still.....";
+
+// let reverse = '';
+// for(const letter of sentence){
+
+//     reverse = letter + reverse;
+// }
+// console.log(reverse);
+
+const letter = "I am Playing Games....";
 
 reverse = letter.split('').reverse().join('');
 
 console.log(reverse);
-
