@@ -1,6 +1,6 @@
 const first_Name = 'Tamim Rahman';
 
-const last_Name = 'Khan';
+const last_Name = 'Khan Games';
 
 const Full_Name2 = first_Name +' '+ last_Name;
 
@@ -25,4 +25,6 @@ console.log(last_Name.includes('Hentai'));
 console.log(last_Name.includes('uTorrent'));
 
 console.log(last_Name.includes('Genesis Order[Fitgirl Repack Website]'));
+
+console.log(last_Name.includes('Games'));
 
