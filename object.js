@@ -6,6 +6,7 @@ const bootle ={
     isClean: false,
 
 }
+console.log(bootle);
 
 const subject = {
 
